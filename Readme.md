@@ -30,3 +30,6 @@ MouseTracker is a Rust application that monitors mouse movements across the enti
 
 ## Running the Application
 To run the application, use the following command:
+```bash
+   cargo run
+   ```
