@@ -1,0 +1,9 @@
+[package]
+name = "dockable-app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui = "0.31.1"
+eframe = "0.27"  # Use the latest version
+device_query = "3.0.1"
