@@ -20,7 +20,7 @@ MouseTracker is a Rust application that monitors mouse movements across the enti
 1. Clone the repository:
    ```bash
    git clone https://github.com/skushagra9/Mouse-Tracker.git
-   cd mousetracker
+   cd Mouse-Tracker
    ```
 
 2. Build the project:
