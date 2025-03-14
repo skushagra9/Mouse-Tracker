@@ -1,5 +1,9 @@
 # MouseTracker
 
+
+https://github.com/user-attachments/assets/9d418bc2-ff4d-4176-bba0-2dc5a939091f
+
+
 ## Overview
 MouseTracker is a Rust application that monitors mouse movements across the entire screen. It allows users to start a task and captures mouse activity, storing the data for further analysis.
 
